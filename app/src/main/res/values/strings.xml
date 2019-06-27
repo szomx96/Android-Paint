@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="enter_file_name">Enter file name</string>
+</resources>
